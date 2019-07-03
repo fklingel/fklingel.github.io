@@ -2777,8 +2777,8 @@ input, select, textarea {
 	#header .content {
 		border-style: solid;
 		border-color: #ffffff;
-		border-top-width: 2px;
-		border-bottom-width: 2px;
+		border-top-width: 1px;
+		border-bottom-width: 1px;
 		font-weight: 600
 		
 	}
