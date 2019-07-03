@@ -2053,6 +2053,7 @@ input, select, textarea {
 				margin-bottom: 0.5rem;
 			}
 
+			
 			footer.major:before, footer.major:after {
 				background: rgba(224, 224, 224, 0.75);
 				content: '';
