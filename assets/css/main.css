@@ -2040,7 +2040,7 @@ input, select, textarea {
 			border-style: solid;
 			border-top-width: 1px;
 			margin-top: 6em;
-			margin-bottom: 6em;
+			margin-bottom: 4em;
 			padding: 4em 0;
 			position: relative;
 		}
@@ -2764,8 +2764,8 @@ input, select, textarea {
 		}
 	#header .logo {
 		width: 10rem;
-		height: 10rem;
-		line-height: 9.7rem;
+		height: 10.05rem;
+		line-height: 9.0rem;
 		border: solid 1px #ffffff;
 		border-radius: 100%;
 	}
@@ -2777,8 +2777,8 @@ input, select, textarea {
 	#header .content {
 		border-style: solid;
 		border-color: #ffffff;
-		border-top-width: 1px;
-		border-bottom-width: 1px;
+		border-top-width: 2px;
+		border-bottom-width: 2px;
 		font-weight: 600
 		
 	}
@@ -2792,7 +2792,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.25s;
 			-ms-transition-delay: 0.25s;
 			transition-delay: 0.25s;
-			padding: 3rem 2rem;
+			padding: 2rem 2rem;
 			max-height: 40rem;
 			overflow: hidden;
 		}
@@ -2940,7 +2940,7 @@ input, select, textarea {
 		}
 
 			#header .content .inner {
-				padding: 2.5rem 0;
+				padding: 0.8rem 0;
 			}
 
 			#header nav ul {
@@ -3185,6 +3185,7 @@ input, select, textarea {
 
 			footer.major {
 				margin-top: 4em;
+				margin-bottom: 2em;
 				padding: 3em 0;
 			}
 
@@ -3326,7 +3327,8 @@ input, select, textarea {
 				}
 
 			footer.major {
-				margin-top: 2em;
+				margin-top: 3em;
+				margin-bottom: 1.5em;
 			}
 
 				footer.major br {
@@ -3375,7 +3377,7 @@ input, select, textarea {
 			#header {
 				background-image: url("images/top-1280.svg"), url("images/overlay.png"), url("../../images/header.jpg");
 				background-size: 1280px 184px,						auto,							cover;
-				padding: 3em 0 7em 0;
+				padding: 2em 0 6em 0;
 			}
 
 				#header:before {
@@ -3391,11 +3393,11 @@ input, select, textarea {
 				}
 
 				#header h1 {
-					font-size: 1.25em;
+					font-size: 1em;
 				}
 
 				#header p {
-					font-size: 1em;
+					font-size: 0.8em;
 				}
 
 		/* Footer */
