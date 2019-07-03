@@ -2049,6 +2049,10 @@ input, select, textarea {
 				margin-bottom: 1rem;
 			}
 
+			footer.major h2 {
+				margin-bottom: 0.5rem;
+			}
+
 			footer.major:before, footer.major:after {
 				background: rgba(224, 224, 224, 0.75);
 				content: '';
@@ -3128,7 +3132,7 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.5em;
+				font-size: 1.6em;
 			}
 
 			h3 {
@@ -3169,7 +3173,7 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.35em;
+				font-size: 1.4em;
 			}
 
 			h3 {
@@ -3190,7 +3194,7 @@ input, select, textarea {
 			footer.major {
 				margin-top: 4em;
 				margin-bottom: 2em;
-				padding: 1em 0;
+				padding: 2em 0;
 			}
 
 		/* Box */
@@ -3293,7 +3297,7 @@ input, select, textarea {
 		/* Basic */
 
 			h2 {
-				font-size: 1em;
+				font-size: 1.3em;
 			}
 
 			h3 {
